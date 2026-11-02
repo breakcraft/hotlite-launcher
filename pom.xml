@@ -310,12 +310,12 @@
 						<lock>
 							<groupId>ch.qos.logback</groupId>
 							<artifactId>logback-classic</artifactId>
-							<hash>SHA-256:ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee</hash>
+							<hash>SHA-256:937afb220b91d8a394d78befdbf587c71aeed289d582e2a91e72a7d92172371d</hash>
 						</lock>
 						<lock>
 							<groupId>ch.qos.logback</groupId>
 							<artifactId>logback-core</artifactId>
-							<hash>SHA-256:4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58</hash>
+							<hash>SHA-256:07b1586faf220c05821d0f3ed8e2e417e214c83f40641f76e8a90b134c31ff6b</hash>
 						</lock>
 						<lock>
 							<groupId>net.sf.jopt-simple</groupId>
@@ -325,12 +325,27 @@
 						<lock>
 							<groupId>com.google.code.gson</groupId>
 							<artifactId>gson</artifactId>
-							<hash>SHA-256:233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81</hash>
+							<hash>SHA-256:d3999291855de495c94c743761b8ab5176cfeabe281a5ab0d8e8d45326fd703e</hash>
 						</lock>
 						<lock>
 							<groupId>com.google.guava</groupId>
 							<artifactId>guava</artifactId>
-							<hash>SHA-256:5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564</hash>
+							<hash>SHA-256:796d8e28ac64e83a47c4c5935a8fecc4682650a04bbdead738ef0f5a3a0e6c46</hash>
+						</lock>
+						<lock>
+							<groupId>com.google.guava</groupId>
+							<artifactId>failureaccess</artifactId>
+							<hash>SHA-256:cbfc3906b19b8f55dd7cfd6dfe0aa4532e834250d7f080bd8d211a3e246b59cb</hash>
+						</lock>
+						<lock>
+							<groupId>com.google.guava</groupId>
+							<artifactId>listenablefuture</artifactId>
+							<hash>SHA-256:b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99</hash>
+						</lock>
+						<lock>
+							<groupId>org.jspecify</groupId>
+							<artifactId>jspecify</artifactId>
+							<hash>SHA-256:070d75f261fe4c5b8202508366715f7f2d4660f88c8ef7e6d3575e48c9683b66</hash>
 						</lock>
 						<lock>
 							<groupId>com.google.code.findbugs</groupId>
